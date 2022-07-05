@@ -1,0 +1,22 @@
+{
+  "name": "untitled2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "chromedriver": "^103.0.0",
+    "geckodriver": "^3.0.2",
+    "jest": "^28.1.2",
+    "jest-environment-jsdom": "^28.1.2",
+    "selenium-webdriver": "^4.3.0",
+    "ts": "^0.2.2",
+    "tslint": "^6.1.3"
+  }
+}
